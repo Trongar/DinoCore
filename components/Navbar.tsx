@@ -12,6 +12,7 @@ import { useSelectedLayoutSegment } from "next/navigation"
 import React, { useEffect, useState } from "react"
 import { NavItem } from "types"
 import { TfiClose, TfiMenu } from "react-icons/tfi"
+import Image from "next/image"
 
 interface MainNavProps {
   items: NavItem[]
@@ -41,7 +42,7 @@ export const Navbar = ({ items, children }: MainNavProps) => {
         <div className="flex h-16 items-center justify-between py-4 px-2">
           <div className="flex gap-6 md:gap-10">
             <Link className="hidden items-center space-x-2 md:flex" href="/">
-              <img className="w-8 h-8" src="/logo.svg" alt="Workflow" />
+              <Image className="w-8 h-8" src="/logo.svg" alt="Workflow" />
               <span className="hidden font-bold sm:inline-block">DinoCore</span>
             </Link>
             <nav className="hidden gap-6 md:flex">
