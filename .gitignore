@@ -1,30 +1,30 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
+# Skip to content
+# Search or jump to…
+# Pull requests
+# Issues
+# Codespaces
+# Marketplace
+# Explore
  
-@Trongar 
-github
-/
-gitignore
-Public
-Code
-Pull requests
-354
-Actions
-Security
-Insights
-gitignore/Node.gitignore
-@yangshun
-yangshun Add Docusaurus files to Node.gitignore
-Latest commit 1d4e709 on Dec 23, 2021
- History
- 66 contributors
-@stuartpb@shiftkey@SimonSiefke@TennyZhuang@venatoria@ro31337@Richienb@noinkling@melonmanchan@kachick@gouthamve@jucrouzet
-130 lines (97 sloc)  2 KB
+# @Trongar 
+# github
+# /
+# gitignore
+# Public
+# Code
+# Pull requests
+# 354
+# Actions
+# Security
+# Insights
+# gitignore/Node.gitignore
+# @yangshun
+# yangshun Add Docusaurus files to Node.gitignore
+# Latest commit 1d4e709 on Dec 23, 2021
+#  History
+#  66 contributors
+# @stuartpb@shiftkey@SimonSiefke@TennyZhuang@venatoria@ro31337@Richienb@noinkling@melonmanchan@kachick@gouthamve@jucrouzet
+# 130 lines (97 sloc)  2 KB
 
 # Logs
 logs
@@ -163,18 +163,18 @@ dist
 # Vscode
 .vscode
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-gitignore/Node.gitignore at main · github/gitignore
+# Footer
+# © 2022 GitHub, Inc.
+# Footer navigation
+# Terms
+# Privacy
+# Security
+# Status
+# Docs
+# Contact GitHub
+# Pricing
+# API
+# Training
+# Blog
+# About
+# gitignore/Node.gitignore at main · github/gitignore
